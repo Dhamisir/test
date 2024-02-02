@@ -1,3 +1,3 @@
-(() => {
-    console.log("hello world himanshu hero");
+(()=>{
+    console.log("hello world himanshu");
 })();
